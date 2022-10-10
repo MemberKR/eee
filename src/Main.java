@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello world3");
         System.out.println("Hello hotFix");
         System.out.println("master test");
+        System.out.println("hotFix test");
     }
 }
